@@ -1,5 +1,3 @@
-### Javascript-To-Do-List
-
 ###INDEX.HTML
 ~~~
 
