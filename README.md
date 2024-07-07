@@ -153,5 +153,6 @@ function addTask() {
 ~~~
 
 ###OUTPUT
-![to do list](https://github.com/karthick-2003-coder/Javascript-To-Do-List/assets/135232854/937e31ee-0e30-4e80-9209-0dd65b4dd182)
+![Screenshot 2024-07-07 211436](https://github.com/karthick-2003-coder/Javascript-To-Do-List/assets/135232854/411c0ec9-8488-40c5-b0f4-1efa3844d743)
+
 
