@@ -1,4 +1,5 @@
-###INDEX.HTML
+### Javascript-To-Do-List
+### INDEX.HTML
 ~~~
 
 <!DOCTYPE html>
@@ -85,7 +86,7 @@
 ~~~
 
 
-###SCRIPT.JS
+### SCRIPT.JS
 ~~~
 class Task {
     constructor(name) {
